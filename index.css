@@ -3,6 +3,9 @@
   flex-direction: column;
   align-items: center;
 }
+h1{
+color: red;
+}
 
 #github-container {
   display: flex;
@@ -10,4 +13,8 @@
 
 ul {
   list-style: none;
+}
+body{
+  text-align: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnrCMd7sez-h0m3yghn-6i033y-JDb-b9uZjv1f_DRA&s);
 }
